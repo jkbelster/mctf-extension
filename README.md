@@ -48,7 +48,7 @@
   <li>Select the "chrome" directory in the downloaded repository</li>
 </ol>
 </br>
-<p>It is not recommended to locally load the extension in Firefox, as the extension will be removed on every browser restart and must be reloaded manually.</p>
+<p>It is not recommended to load the extension locally in Firefox, as the extension will be removed at every browser restart and must be reloaded manually.</p>
 </br>
 
 <h2 align="left">License</h2>
