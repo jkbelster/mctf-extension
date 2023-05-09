@@ -50,8 +50,20 @@
   <li>Select the "chrome" directory in the downloaded repository</li>
 </ol>
 <h3 align="left">Firefox</h3>
-<p>It is not recommended to load the extension locally in Firefox, as the extension will be removed at every browser restart and must be reloaded manually.</p>
+<p>It is not recommended to load the extension locally in Firefox, as the extension will be removed at every browser restart and must be reloaded manually.</br>
+If you still want do proceed, follow these steps:</p>
+<ol>
+  <li>Clone or Download the repository</li>
+  <li>Open Firefox and navigate to about:debugging</li>
+  <li>Click "This Firefox" on the left-hand menu</li>
+  <li>Click "Load Temporary Add-on" and select the manifest.json file from the "firefox" directory in the downloaded repository</li>
+</ol>
+<p>Note: You may need to manually set a custom add-on ID for the "browser_specific_settings" section in the manifest.json file. For more information see <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/browser_specific_settings">Mozilla's documentation</a>.</p>
 </br>
 
 <h2 align="left">License</h2>
 <p>Moodle Course Title Fixer is released under the MIT License. See the <a href="https://github.com/jkbelster/moodle-course-title-fixer/blob/main/LICENSE">LICENSE</a> file for more details.</p>
+</br>
+
+<h2 align="left">Credits</h2>
+<p>Special thanks to Clemens Hörl for his support and feedback.</p>
