@@ -1,6 +1,7 @@
 <h1 align="center">
-  <sub><img alt="MCTF Logo" src="/chrome/icons/ext-icon-48.png"></sub>
-  Moodle Course Title Fixer</h1>
+  <img alt="MCTF Logo" src="/chrome/icons/ext-icon-96.png" width="48"><br>
+  Moodle Course Title Fixer
+</h1>
 <div align="left">
   This Browser extensions fixes the shown course title in moodle by replacing the module number with the corresponding module title.</br>
   The Moodle platform of the University of Leipzig displays module numbers as course titles, causing navigation difficulties. This add-on replaces the module number with the corresponding module title, making navigation on the platform easier.
