@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Moodle Course Title Fixer",
+  "version": "1.0",
+  
+  "browser_specific_settings": {
+    "gecko": {
+       "id": "{ffc1094c-fc6c-45e4-b1f1-b91fa9e3fb5d}"
+    }
+  },
+
+  "author": "Jakob Elster",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.moodle2.uni-leipzig.de/*"],
+      "js": ["title-fixer.js"]
+    }
+  ],
+
+  "description": "Fix the shown course title in moodle by replacing the module number with the corresponding module title.",
+
+  "icons": {
+    "48": "icons/ext-icon-48.png",
+    "96": "icons/ext-icon-96.png"
+  },
+
+  "short_name": "MCTF"
+}
