@@ -3,8 +3,6 @@
   "name": "Moodle Course Title Fixer",
   "version": "1.0",
 
-  "author": "elster.jkb@gmail.com",
-
   "content_scripts": [
     {
       "matches": ["*://*.moodle2.uni-leipzig.de/*"],
