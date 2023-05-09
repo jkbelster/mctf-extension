@@ -2,15 +2,15 @@
   <sub><img alt="MCTF Logo" src="/chrome/icons/ext-icon-48.png"></sub>
   Moodle Course Title Fixer</h1>
 <div align="left">
-  Browser extensions to fix the shown course title in moodle by replacing the module number with the corresponding module title.</br>
+  This Browser extensions fixes the shown course title in moodle by replacing the module number with the corresponding module title.</br>
   The Moodle platform of the University of Leipzig displays module numbers as course titles, causing navigation difficulties. This add-on replaces the module number with the corresponding module title, making navigation on the platform easier.
 </div>
 </br>
 
 <h2 align="left">Download</h1>
-<p>You can download the extension from the <a href="https://addons.mozilla.org/de/firefox/">Mozilla Add-ons Store</a> and the <a href="https://chrome.google.com/webstore/category/extensions">Chrome Web Store</a> and should therefore work with all chromium-based browsers.</p>
+<p>You can download the extension from the <a href="https://addons.mozilla.org/de/firefox/">Mozilla Add-ons Store</a> and the <a href="https://chrome.google.com/webstore/category/extensions">Chrome Web Store</a>. It should therefore work with all chromium-based browsers.</p>
 <div align="center">
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/moodle-course-title-fixer/">
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/moodle-course-title-fixer/" target="_blank" rel="noopener noreferrer">
     <img alt="Mozilla Firefox" src="/assets/firefox-ext-download.png" height="75">
   </a>
   
@@ -39,17 +39,17 @@
 </br>
 
 <h2 align="left">Manual Installation</h2>
-<p>If you want to install the extension by yourself you have to follow these steps:</p>
+<p>If you want to install the extension from source you may follow these steps:</p>
 <ol>
   <li>Clone or Download the repository</li>
-  <li>Navigate to the extension page of chrome: <a href="chrome://extensions/">chrome://extensions/</a></li>
+  <li>Navigate to the extension page of chrome: chrome://extensions/</li>
   <li>Enable developer mode</li>
   <li>Click "Load unpacked extension"</li>
   <li>Select the "chrome" directory in the downloaded repository</li>
 </ol>
 </br>
-<p>It is not recommended to locally load the extension in Firefox, as the extension will be removed every time the browser is closed and must be reloaded manually.</p>
+<p>It is not recommended to locally load the extension in Firefox, as the extension will be removed on every browser restart and must be reloaded manually.</p>
 </br>
 
 <h2 align="left">License</h2>
-<p>Moodle Course Title Fixer is released under the MIT License. See the LICENSE file for more details.</p>
+<p>Moodle Course Title Fixer is released under the MIT License. See the <a href="https://github.com/jkbelster/moodle-course-title-fixer/blob/main/LICENSE">LICENSE</a> file for more details.</p>
