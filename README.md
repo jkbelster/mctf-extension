@@ -40,6 +40,7 @@
 </br>
 
 <h2 align="left">Manual Installation</h2>
+<h3 align="left">Chromium</h3>
 <p>If you want to install the extension from source you may follow these steps:</p>
 <ol>
   <li>Clone or Download the repository</li>
@@ -48,7 +49,7 @@
   <li>Click "Load unpacked extension"</li>
   <li>Select the "chrome" directory in the downloaded repository</li>
 </ol>
-</br>
+<h3 align="left">Firefox</h3>
 <p>It is not recommended to load the extension locally in Firefox, as the extension will be removed at every browser restart and must be reloaded manually.</p>
 </br>
 
