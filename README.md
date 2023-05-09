@@ -10,7 +10,7 @@
 <h2 align="left">Download</h1>
 <p>You can download the extension from the <a href="https://addons.mozilla.org/de/firefox/">Mozilla Add-ons Store</a> and the <a href="https://chrome.google.com/webstore/category/extensions">Chrome Web Store</a>. It should therefore work with all chromium-based browsers.</p>
 <div align="center">
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/moodle-course-title-fixer/" target="_blank" rel="noopener noreferrer">
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/moodle-course-title-fixer/">
     <img alt="Mozilla Firefox" src="/assets/firefox-ext-download.png" height="75">
   </a>
   
